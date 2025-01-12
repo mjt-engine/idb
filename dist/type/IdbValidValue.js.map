@@ -1,0 +1,1 @@
+{"version":3,"file":"IdbValidValue.js","sourceRoot":"","sources":["../../src/type/IdbValidValue.ts"],"names":[],"mappings":"","sourcesContent":["import { ByteLike } from \"@mjt-engine/byte\";\n\n\nexport type IdbValidValue = ByteLike;\n"]}

@@ -1,0 +1,1 @@
+{"root":["../src/add.ts","../src/get.ts","../src/index.ts","../src/list.ts","../src/openidb.ts","../src/put.ts","../src/remove.ts","../src/requesttopromise.ts","../src/update.ts","../src/upgrade.ts","../src/type/idb.ts","../src/type/idbquery.ts","../src/type/idbvalidvalue.ts"],"version":"5.7.3"}
